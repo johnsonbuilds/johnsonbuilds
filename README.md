@@ -2,9 +2,11 @@
 
 I build AI agents that actually get things done.
 
+> No setup. No debugging. Just results.
+
 ---
 
-## ⚡ Try it instantly
+## ⚡ Try it now
 
 👉 https://getclawcloud.com
 
@@ -14,9 +16,19 @@ I build AI agents that actually get things done.
 
 ---
 
-## 🚀 What you can do
+## 🚀 Try this
 
-* Find people & generate outreach
+Paste this into your agent:
+
+```
+Summarize today's top posts on Hacker News in bullet points
+```
+
+---
+
+## 💡 What you can do
+
+* Find and summarize information
 * Work with PDFs and documents
 * Automate repetitive workflows
 
