@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hey, I'm Johnson
 
-<!--
-**johnsonbuilds/johnsonbuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI agents that actually get things done.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Try it instantly
+
+👉 https://getclawcloud.com
+
+* No setup
+* No coding
+* Your AI agent is ready in seconds
+
+---
+
+## 🚀 What you can do
+
+* Find people & generate outreach
+* Work with PDFs and documents
+* Automate repetitive workflows
+
+---
+
+## 💬 Get help
+
+👉 https://t.me/clawcloud_official
+
+I'll help you get your first task working.
