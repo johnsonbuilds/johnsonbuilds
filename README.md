@@ -18,11 +18,20 @@ I build AI agents that actually get things done.
 
 ## 🚀 Try this
 
-Paste this into your agent:
+🥇 Find Startup Leads & Generate Outreach
+Find founders, collect contact info, and draft personalized outreach messages.
 
-```
-Summarize today's top posts on Hacker News in bullet points
-```
+👉 https://getclawcloud.com/?task=template1
+
+🥈 Summarize Hacker News
+Get today’s top Hacker News stories summarized into key trends and takeaways.
+
+👉 https://getclawcloud.com/?task=template2
+
+🥉 Research AI Companies to CSV
+Find AI startups in a niche and export structured results into CSV.
+
+👉 https://getclawcloud.com/?task=template3
 
 ---
 
