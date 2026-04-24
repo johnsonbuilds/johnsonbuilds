@@ -40,6 +40,7 @@ Find AI startups in a niche and export structured results into CSV.
 * Find and summarize information
 * Work with PDFs and documents
 * Automate repetitive workflows
+* Anything You Imagine, If you can describe it, your agent can run it automatically
 
 ---
 
